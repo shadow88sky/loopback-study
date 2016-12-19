@@ -12,4 +12,9 @@
     * server.js:主程序入口  
     * *.json:配置文件  
     * boot文件夹:里面的文件会在项目启动的时候执行，可以看成初始化脚本
-* client:放js文件啊，引用的jquery等...
+* client:放js文件啊，引用的jquery等...  
+## model建立
+
+    slc loopback:model
+    
+
